@@ -1,7 +1,16 @@
-.main{
+.home{
     height: 100vh;
     width: 100%;
     background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about {
+    height: 100vh;
+    width: 100%;
+    background-color:pink;
     display: flex;
     justify-content: center;
     align-items: center;
